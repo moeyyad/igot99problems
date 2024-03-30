@@ -30,15 +30,15 @@ export const siteConfig: SiteConfig = {
 export const menuLinks: Array<{ title: string; path: string }> = [
 	{
 		title: "Home",
-		path: "/",
+		path: "/igot99problems/",
 	},
 	{
 		title: "About",
-		path: "/about/",
+		path: "/igot99problems/about/",
 	},
 	{
 		title: "Blog",
-		path: "/posts/",
+		path: "/igot99problems/posts/",
 	},
 ];
 

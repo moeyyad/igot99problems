@@ -14,16 +14,20 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 		<h1 class="title mb-6">A Billion Dollar Problem, Every Episode</h1>
 		<p class="mb-4">
 			I Got 99 Problems is the podcast for curious and ambitious individuals. Every episode will
-			dive into a real-world problem whose solution can reasonably be expected to generate a billion
-			dollars. The best part? We believe that each problem we present can be solved by a small team
-			(or individual) with limited capital and can get to an MVP within a few months.
+			dive deep into a different large-scale problem that could serve as a starting point for the
+			next billion dollar startup. We find interesting problems, analyze their importance and scale,
+			then present our insights to you on a silver platter!
 		</p>
 		<a href="/igot99problems/about" class="cactus-link inline-block">Find out more</a>
-		<h2 class="title mb-4 mt-12 text-xl">Connect</h2>
-		<SocialList />
+	</section>
+	<section>
+		<h2 class="title mb-4 mt-12 text-lg">Find Us</h2>
+		<SocialList group="full episodes" />
+		<SocialList group="community" />
+		<SocialList group="contact" />
 	</section>
 	<section aria-label="Blog post list" class="mt-12">
-		<h2 class="title mb-4 text-xl">Recent Episodes</h2>
+		<h2 class="title mb-4 text-lg">Recent Episodes</h2>
 		<ul class="space-y-4">
 			{
 				allPostsByDate.map(

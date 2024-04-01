@@ -2,8 +2,10 @@
 title: "Dating Apps are Broken"
 description: "...In more ways than one. While dating apps have revolutionized the way that couples meet, they introduce many large problems in their wake"
 publishDate: "31 Mar 2024"
-tags: ["episode", "dating"]
+tags: ["problem-guide"]
 ---
+
+This episode is available on [Youtube](https://google.com), [Spotify](https://google.com), and [Apple Podcasts](https://google.com).
 
 ## Introduction to this Problem
 test

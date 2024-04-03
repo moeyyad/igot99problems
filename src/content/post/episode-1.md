@@ -5,39 +5,7 @@ publishDate: "31 Mar 2024"
 tags: ["problem-guide"]
 ---
 
-This episode is available on [Youtube](https://google.com), [Spotify](https://google.com), and [Apple Podcasts](https://google.com).
+This episode is unreleased and will be available on [Youtube](#), [Spotify](#), and [Apple Podcasts](#).
 
-## Introduction to this Problem
-test
+This problem guide will be updated after the episode is released.
 
-1. Subproblem
-2. Subproblem
-3. Subproblem
-4. Subproblem
-5. Subproblem
-
-## Problem Analysis
-
-### Subproblem 1
-test
-
-### Subproblem 2
-test
-
-### Subproblem 3
-test
-
-### Subproblem 4
-test
-
-### Subproblem 5
-test
-
-## Past Failures
-test
-
-## Difficulties
-test
-
-## How To Get Started
-test

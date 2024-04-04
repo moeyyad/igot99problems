@@ -9,10 +9,9 @@ type Props = SiteMeta;
 
 const { articleDate, description, ogImage, title } = Astro.props;
 
-const titleSeparator = "•";
-const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`;
+const siteTitle = `${siteConfig.title}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url).href;
+const socialImageURL = new URL(ogImage ? ogImage : "/igot99problems/og-image.png", Astro.url).href;
 ---
 
 <meta charset="utf-8" />
@@ -21,10 +20,7 @@ const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url
 <title>{siteTitle}</title>
 
 {/* Icons / Favicon */}
-<link href="/igot99problems/favicon.ico" rel="icon" sizes="any" />
-<link href="/igot99problems/icon.svg" rel="icon" type="image/svg+xml" />
-<link href="/igot99problems/apple-touch-icon.png" rel="apple-touch-icon" />
-<link href="/igot99problems/manifest.webmanifest" rel="manifest" />
+<link rel="icon" type="image/png" href="/igot99problems/99.png" />
 <link href={canonicalURL} rel="canonical" />
 
 {/* Primary Meta Tags */}

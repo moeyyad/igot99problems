@@ -1,6 +1,6 @@
 ---
 title: "Dating Apps are Broken"
-description: "...In more ways than one. While dating apps have revolutionized the way that couples meet, they introduce many large problems in their wake"
+description: "Dating apps are broken in more ways than one. While dating apps have revolutionized the way that couples meet, they introduce many large problems in their wake"
 publishDate: "31 Mar 2024"
 tags: ["problem-guide"]
 ---
